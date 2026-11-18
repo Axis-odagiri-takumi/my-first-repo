@@ -1,4 +1,4 @@
 Hello git!
 Edit test!
 branch test!
-Good morning!
+こんにちは!
